@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "fa0fe6a0-c8c8-7527-12d7-db2f2f2e59b0",
+    "Name": "DeleteUniversalCarBodyTypePostgreSQL",
+    "DBEngineType": 2,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1733922699000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
