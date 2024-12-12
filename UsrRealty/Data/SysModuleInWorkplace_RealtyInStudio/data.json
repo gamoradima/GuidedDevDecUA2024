@@ -1,0 +1,56 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "570a5d03-f34e-4c19-82c4-d57ae58cf21a"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "c10fb747-57f1-4790-aad3-c3f4da6d6c58",
+          "DisplayValue": "Студия"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "98e84215-473b-4db2-922d-740c5f0bafb2",
+          "DisplayValue": "Недвижимость"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1734012553425+0200)\/"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6bc838a0-9530-4424-80ea-0d83ebd6d970"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "c10fb747-57f1-4790-aad3-c3f4da6d6c58",
+          "DisplayValue": "Студия"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "5071277c-27f2-4d5f-83da-0ed00d04ffee",
+          "DisplayValue": "Библиотека процессов"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1563225083920+0300)\/"
+        }
+      ]
+    }
+  ]
+}
